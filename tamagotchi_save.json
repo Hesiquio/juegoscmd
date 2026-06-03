@@ -1,0 +1,8 @@
+{
+    "tipo": "GatoRobot",
+    "nombre": "nachobotmiau",
+    "hambre": 90,
+    "felicidad": 50,
+    "energia": 90,
+    "salud": 85
+}
